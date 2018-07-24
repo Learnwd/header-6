@@ -1,0 +1,30 @@
+/*start of header-6*/
+.header-6 {
+	background:linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("images/bg.png");
+	background-size: cover;
+	background-position: center center;
+	color: #ffffff;
+	font-family: 'Source Sans Pro', sans-serif;
+	padding: 100px 0;
+}
+.header-6 h1 {
+    font-size: 3.25rem;
+    margin-bottom: 0.5em;
+    margin-top: .3em;
+    font-weight: 300; }
+.header-6 p {
+	font-size: 1.6rem;
+	margin-bottom: 0.5em;
+    margin-top: .3em;
+	font-weight: 300;
+	color:#ffffff;
+	opacity: 0.8;
+}
+@media (min-width: 992px) {
+	.header-6 {
+		height: 100vh;
+		padding-top: 0;
+		padding-bottom: 0;
+	}
+}
+´/*end of header-6*/
